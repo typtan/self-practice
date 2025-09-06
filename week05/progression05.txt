@@ -1,0 +1,9 @@
+
+1. filterEvenNumbers(arr) ได้เขียน function ที่ filter แค่เลขที่เป็นเลขคู่ใน array ออกมา
+
+2. function convertToUppercase(arr) ได้ใช้วิธี loop array และใช้ .toUpperCase() เพื่อแปลงให้เป็นตัวพิมพ์ใหญ่ และใช้ .push() เพื่อเพิ่มค่าลงใน array ใหม่
+
+3. convertToUppercase (ใช้ map) ได้เปลี่ยนมาลองใช้ .map() เพราะใช้สำหรับ แปลงค่าของทุก element ใน array แล้วสร้าง array ใหม่มา
+และใช้ arrow function ทำให้โค้ดสั้นและอ่านง่าย สุดท้ายจะได้ผลลัพธ์เหมือนกับ for loop แต่เขียนกระชับกว่า
+
+4. การเรียงค่าจาก id ในโจทย์ที่อาจารย์เคยให้ โดยได้ใช้ .sort() เพื่อเรียงลำดับ array โดยใช้ compare กันเพื่ิอให้เรียงจากน้อยไปมากได้
